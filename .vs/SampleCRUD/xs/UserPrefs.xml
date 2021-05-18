@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{9EE934D6-D3C5-4C66-89D4-8B1DE1638B1A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sampleCRUD/appsettings.json">
+    <Files>
+      <File FileName="sampleCRUD/Program.cs" Line="18" Column="1" />
+      <File FileName="sampleCRUD/Model/Employee.cs" />
+      <File FileName="sampleCRUD/appsettings.json" Line="3" Column="77" />
+      <File FileName="sampleCRUD/Startup.cs" Line="42" Column="10" />
+      <File FileName="sampleCRUD/EmployeeContext.cs" />
+      <File FileName="sampleCRUD/Controllers/HomeController.cs" />
+      <File FileName="sampleCRUD/Properties/launchSettings.json" Line="7" Column="47" />
+      <File FileName="sampleCRUD/appsettings.Development.json" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sampleCRUD" expanded="True">
+            <Node name="sampleCRUD" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="EmployeeService" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.sampleCRUD PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
